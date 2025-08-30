@@ -21,6 +21,8 @@
   - Cline
   - Bolt
   - RooCode
+- **Python Examples**
+  - String Reverse Functions
 
 ---
 
